@@ -25,7 +25,7 @@
     "helmet": "^3.20.0",
     "ioredis": "^4.11.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "nodemailer": "^6.2.1",
     "nodemailer-express-handlebars": "^3.0.0",
